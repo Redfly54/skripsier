@@ -88,7 +88,7 @@
         <ul class="nav navbar-nav">
           <li><a href="index.php"><i class="fa fa-home"></i> Beranda</a></li>
           <li><a href="data.php"><i class="fa fa-list-ul"></i> Data Industri Kreatif</a></li>
-          <li><a href="peta1.php"><i class="fa fa-map-marker"></i> Peta Persebaran Industri Kreatif</a></li>
+          <!-- <li><a href="peta1.php"><i class="fa fa-map-marker"></i> Peta Persebaran Industri Kreatif</a></li> -->
           <li><a href="peta.php"><i class="fa fa-th-large"></i> Peta Sentra Industri Kreatif</a></li>
            <li><a href="peta3.php" data-toggle="modal" data-target="#about"><i class="fa fa-user"></i> Peta Konsentrasi Industri Kreatif</a></li>
             <li><a href="pendahuluan.php" data-toggle="modal" data-target="#about"><i class="fa fa-user"></i> Pendahuluan </a></li>
