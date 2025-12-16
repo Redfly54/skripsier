@@ -1,9 +1,9 @@
 <?php
-$host = "43.156.249.217";
+$host = "8.215.10.98";
 $user = "root";
-$pass = "b4IynNkgjSvExV3t8p0o67K9zDGJ5M21";
-$name = "skripsi";
-$port = 30527; // ⬅️ tambahkan ini
+$pass = "j62MxN9kVSh78bvTaI1QE3wqOe4f0C5t";
+$name = "weberika";
+$port = 31657; // ⬅️ tambahkan ini
 
 $koneksi = mysqli_connect($host, $user, $pass, $name, $port);
 
