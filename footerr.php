@@ -52,7 +52,9 @@
     </ul>
     <!-- Copyright -->
     <p style="font-size: 13px; color: #eee; margin-top: 10px;">
-      &copy; <?php echo date("Y"); ?> Provinsi Daerah Istimewa Yogyakarta.
+      &copy; <?php echo date("Y"); ?> Provinsi Daerah Istimewa Yogyakarta.<br>
+      Erika Azizah Khoirunnisa<br>
+      Prof. Setia Pramana, S.Si, M.Sc, Ph.D
     </p>
   </div>
 </footer>
